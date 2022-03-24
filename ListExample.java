@@ -18,7 +18,7 @@ public class ListExample {
     }
     static void ArrayListMethod(){
         List<Boolean> li = new ArrayList<Boolean>(); //<> are known as generators we can specify the data type of elements to be stored.
-        System.out.println("===Array List======");
+        System.out.println("===Array List===new===");
         li.add(true);
         li.add(false);
         li.add(false);
